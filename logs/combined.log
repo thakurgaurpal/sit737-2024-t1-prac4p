@@ -13,3 +13,4 @@
 {"level":"info","message":"Multiplication operation requested: 2 * 7","service":"calculator-microservice"}
 {"level":"info","message":"Division operation requested: 2 / 7","service":"calculator-microservice"}
 {"level":"info","message":"Division operation requested: 25 / 7","service":"calculator-microservice"}
+{"level":"info","message":"Addition operation requested: 5 + 10","service":"calculator-microservice"}
